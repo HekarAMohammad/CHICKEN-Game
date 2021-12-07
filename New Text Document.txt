@@ -1,0 +1,1 @@
+(s = f Or s = f - 1 Or s = f - 2 Or s = f - 4 Or s = f - 5 Or s = f - 6 Or s = f - 7 Or s = f - 8 Or s = f - 9 Or s = f - 10)
